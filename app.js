@@ -14,10 +14,10 @@
   "use strict";
 
   const FIREBASE_CONFIG = Object.freeze({
-    projectId: "valenca-legal-suite",
+    projectId: "julio-enterprise-suite",
     collection: "consultas_juridicas",
     storageKey: "fb_enterprise_consultas_juridicas_v4",
-    apiEndpoint: "https://firestore.googleapis.com/v1/projects/valenca-legal-suite/databases/(default)/documents/consultas_juridicas",
+    apiEndpoint: "https://firestore.googleapis.com/v1/projects/julio-enterprise-suite/databases/(default)/documents/consultas_juridicas",
     timeoutMs: 4500
   });
 
